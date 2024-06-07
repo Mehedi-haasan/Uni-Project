@@ -1,0 +1,30 @@
+[
+    {
+        "id":"1",
+        "title":"T-shirt",
+        "image":"https://img.freepik.com/premium-photo/beautiful-kid-having-brush-her-chic-curly-blond-hair-wearing-blue-shirt-white-t-shir_926199-2861033.jpg?w=740",
+        "price":"350",
+        "discount":"7"
+    },
+    {
+        "id":"2",
+        "title":"T-shirt",
+        "image":"https://img.freepik.com/premium-photo/beautiful-kid-having-brush-her-chic-curly-blond-hair-wearing-blue-shirt-white-t-shir_926199-2861033.jpg?w=740",
+        "price":"350",
+        "discount":"7"
+    },
+    {
+        "id":"3",
+        "title":"T-shirt",
+        "image":"https://img.freepik.com/premium-photo/beautiful-kid-having-brush-her-chic-curly-blond-hair-wearing-blue-shirt-white-t-shir_926199-2861033.jpg?w=740",
+        "price":"350",
+        "discount":"7"
+    },
+    {
+        "id":"4",
+        "title":"T-shirt",
+        "image":"https://img.freepik.com/premium-photo/beautiful-kid-having-brush-her-chic-curly-blond-hair-wearing-blue-shirt-white-t-shir_926199-2861033.jpg?w=740",
+        "price":"350",
+        "discount":"7"
+    }
+]
